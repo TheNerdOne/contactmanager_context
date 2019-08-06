@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-context/static/css/main.fe72e0ff.chunk.css",
-    "main.js": "/react-context/static/js/main.88b68300.chunk.js",
-    "main.js.map": "/react-context/static/js/main.88b68300.chunk.js.map",
-    "runtime~main.js": "/react-context/static/js/runtime~main.d4f1ac95.js",
-    "runtime~main.js.map": "/react-context/static/js/runtime~main.d4f1ac95.js.map",
-    "static/css/2.0624914a.chunk.css": "/react-context/static/css/2.0624914a.chunk.css",
-    "static/js/2.33e4a5c8.chunk.js": "/react-context/static/js/2.33e4a5c8.chunk.js",
-    "static/js/2.33e4a5c8.chunk.js.map": "/react-context/static/js/2.33e4a5c8.chunk.js.map",
-    "index.html": "/react-context/index.html",
-    "precache-manifest.7d2934ef2ac51c2e9748093e74db475c.js": "/react-context/precache-manifest.7d2934ef2ac51c2e9748093e74db475c.js",
-    "service-worker.js": "/react-context/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/react-context/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.fe72e0ff.chunk.css.map": "/react-context/static/css/main.fe72e0ff.chunk.css.map",
-    "static/media/avatar-circle.png": "/react-context/static/media/avatar-circle.56f0c7de.png"
+    "main.css": "/contactmanager_context/static/css/main.fe72e0ff.chunk.css",
+    "main.js": "/contactmanager_context/static/js/main.b87fa891.chunk.js",
+    "main.js.map": "/contactmanager_context/static/js/main.b87fa891.chunk.js.map",
+    "runtime~main.js": "/contactmanager_context/static/js/runtime~main.7a84deb3.js",
+    "runtime~main.js.map": "/contactmanager_context/static/js/runtime~main.7a84deb3.js.map",
+    "static/css/2.0624914a.chunk.css": "/contactmanager_context/static/css/2.0624914a.chunk.css",
+    "static/js/2.33e4a5c8.chunk.js": "/contactmanager_context/static/js/2.33e4a5c8.chunk.js",
+    "static/js/2.33e4a5c8.chunk.js.map": "/contactmanager_context/static/js/2.33e4a5c8.chunk.js.map",
+    "index.html": "/contactmanager_context/index.html",
+    "precache-manifest.3cbd691b9e80c632e0494e048c0e18a0.js": "/contactmanager_context/precache-manifest.3cbd691b9e80c632e0494e048c0e18a0.js",
+    "service-worker.js": "/contactmanager_context/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/contactmanager_context/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.fe72e0ff.chunk.css.map": "/contactmanager_context/static/css/main.fe72e0ff.chunk.css.map",
+    "static/media/avatar-circle.png": "/contactmanager_context/static/media/avatar-circle.56f0c7de.png"
   }
 }
